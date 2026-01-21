@@ -1,4 +1,4 @@
-# Write a lambda function which accepts one number and returns square of that number.
+# Write a lambda function which accepts a number and returns squares of that number.
 
 ###########################################################################
 #
