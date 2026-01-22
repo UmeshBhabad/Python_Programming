@@ -1,5 +1,5 @@
 # Write a lambda function which accepts a number and returns squares of that number.
-
+ 
 ###########################################################################
 #
 # Function Name :   Square
